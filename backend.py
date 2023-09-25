@@ -19,5 +19,6 @@ if __name__ == "__main__":
     chatbot = ChatBot()
     response_ = chatbot.get_response("Write a story about birds.")
     print(response_)
+    print("Done")
 
 
